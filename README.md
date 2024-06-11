@@ -44,7 +44,26 @@ Q1: Where is your data located?
 Dữ liệu có sẵn tại địa chỉ tôi đã cung cấp liên kết ở trên. Dữ liệu tôi tải xuống từ địa chỉ này đã được xử lý theo cách bao gồm 12 tháng, tháng 1 năm 2022 và tháng 12 năm 2022.
 https://www.kaggle.com/datasets/phuongthao28/cyclistic-bike-share-capstone-project?select=cyclistic_data.csv
 
+Q2: How is the data organized?
+Nhiều công cụ và chương trình có thể được sử dụng để chỉnh sửa dữ liệu. Tôi đã chọn ngôn ngữ lập trình python cho công việc của mình. Trong ngôn ngữ lập trình python, tôi đã kết hợp dữ liệu của 12 tháng vào một khung dữ liệu duy nhất, sau đó thêm các cột cần thiết và xóa những cột không hữu ích cho chúng tôi trong phân tích của mình.
 
+Q3: Are there issues with bias or credibility in this data? Does your data ROCCC?
 
+Có, dữ liệu có vẻ là ROCCC. Dường như không có bất kỳ vấn đề nào về sự thiên vị hoặc độ tin cậy trong dữ liệu vì nó bao gồm dữ liệu chuyến đi từ những người đi xe đạp của chính Cyclistic và được cung cấp theo giấy phép của Motivate International Inc. Ngoài ra, dữ liệu có vẻ đáng tin cậy, nguyên bản, toàn diện, cập nhật và được trích dẫn, đáp ứng các tiêu chí của ROCCC.
 
+Q4: How are you addressing licensing, privacy, security, and accessibility?
+
+Điều quan trọng là phải tuân thủ mọi hạn chế cấp phép khi sử dụng dữ liệu có sẵn công khai. Như đã đề cập trong lời nhắc, dữ liệu được cung cấp theo một giấy phép cụ thể và người dùng nên xem xét và tuân thủ mọi yêu cầu hoặc hạn chế do giấy phép chỉ định. Để giải quyết các mối lo ngại về quyền riêng tư và bảo mật, mọi thông tin nhận dạng cá nhân phải được xóa hoặc che khuất khỏi dữ liệu. Ngoài ra, điều quan trọng là phải đảm bảo rằng bất kỳ ai cần làm việc với dữ liệu đó đều có thể truy cập và sử dụng được dữ liệu đó.
+
+Q5: How did you verify the data’s integrity?
+
+Để xác minh tính toàn vẹn của dữ liệu, điều quan trọng là phải kiểm tra dữ liệu xem có bất kỳ sự không nhất quán hoặc lỗi nào không. Điều này có thể bao gồm việc kiểm tra dữ liệu bị thiếu hoặc không chính xác, xác định các giá trị ngoại lệ hoặc bất thường hoặc so sánh dữ liệu với các nguồn khác để đảm bảo dữ liệu đó chính xác. Tôi đã thực hiện phân tích này bằng các phương pháp đơn giản và nhanh chóng bằng ngôn ngữ python và kết quả là tôi đã kiểm tra xem dữ liệu có nhất quán hay không. Tôi đã xác định các loại dữ liệu bị thiếu và không chính xác, xóa chúng và chuẩn bị sẵn sàng để phân tích.
+
+Q6: How does it help you answer your question?
+
+Dữ liệu về chuyến đi xe đạp giúp trả lời câu hỏi về việc các thành viên thường niên và người đi xe đạp thông thường sử dụng chương trình chia sẻ xe đạp khác nhau như thế nào. Phân tích các mẫu dữ liệu, công việc của tôi là xác định sự khác biệt trong cách sử dụng giữa hai nhóm và hiểu cách mỗi nhóm sử dụng xe đạp đã giúp tôi đưa ra câu trả lời rất hiệu quả trong việc trả lời các câu hỏi về chiến lược tiếp thị.
+
+Q7: Are there any problems with the data?
+
+Tôi thấy rằng có một số thiếu sót và loại dữ liệu không chính xác trong dữ liệu. Tôi đã giải quyết chúng bằng các phương pháp trong ngôn ngữ python và làm cho chúng phù hợp để phân tích.
 
