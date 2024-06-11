@@ -45,6 +45,7 @@ Dữ liệu có sẵn tại địa chỉ tôi đã cung cấp liên kết ở tr
 https://www.kaggle.com/datasets/phuongthao28/cyclistic-bike-share-capstone-project?select=cyclistic_data.csv
 
 Q2: How is the data organized?
+
 Nhiều công cụ và chương trình có thể được sử dụng để chỉnh sửa dữ liệu. Tôi đã chọn ngôn ngữ lập trình python cho công việc của mình. Trong ngôn ngữ lập trình python, tôi đã kết hợp dữ liệu của 12 tháng vào một khung dữ liệu duy nhất, sau đó thêm các cột cần thiết và xóa những cột không hữu ích cho chúng tôi trong phân tích của mình.
 
 Q3: Are there issues with bias or credibility in this data? Does your data ROCCC?
