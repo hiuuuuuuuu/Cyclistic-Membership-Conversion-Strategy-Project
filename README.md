@@ -35,3 +35,16 @@ Phân tích dữ liệu để hiểu rõ hơn về cách người dùng sử d�
 
 ## 1.3 A clear statement of the business task :
 Mục đích chính của vai trò công việc này là phân tích dữ liệu Chu kỳ và hiểu biết sâu sắc về các xu hướng tiếp thị dựa trên dữ liệu định hướng và thúc đẩy người dùng, đồng thời chia sẻ chúng với các bên liên quan chính. Hình ảnh trực quan cụ thể và rõ ràng phải được thực hiện và sẵn sàng chia sẻ để tất cả các bên liên quan có thể hiểu được dữ liệu.
+
+## Pharse 2: PREPARE
+Guiding Questions
+
+Q1: Where is your data located?
+
+Dữ liệu có sẵn tại địa chỉ tôi đã cung cấp liên kết ở trên. Dữ liệu tôi tải xuống từ địa chỉ này đã được xử lý theo cách bao gồm 12 tháng, tháng 1 năm 2022 và tháng 12 năm 2022.
+https://www.kaggle.com/datasets/phuongthao28/cyclistic-bike-share-capstone-project?select=cyclistic_data.csv
+
+
+
+
+
