@@ -26,6 +26,9 @@ Three questions will guide the future marketing program:
 Phân tích dữ liệu để hiểu rõ hơn về cách người dùng sử dụng xe đạp của Cyclistic theo loại thành viên và xác định xu hướng dựa trên chiến lược tiếp thị của Cyclistic.
 ## 1.2 Key Stakehoders:
 • Cyclistic: Chương trình chia sẻ xe đạp có hơn 5.800 xe đạp và 600 trạm nối. Xe đạp tạo nên sự khác biệt bằng cách cung cấp xe đạp ngả lưng, xe ba bánh tay và xe đạp chở hàng, giúp dịch vụ chia sẻ xe đạp trở nên phù hợp hơn với người khuyết tật và những người lái xe không thể sử dụng xe đạp hai bánh tiêu chuẩn. Phần lớn người đi xe lựa chọn xe đạp truyền thống; khoảng 8% người lái sử dụng các tùy chọn hỗ trợ. Người dùng xe đạp có xu hướng đạp xe để giải trí nhiều hơn, nhưng khoảng 30% sử dụng chúng để đi làm mỗi ngày.
+
 • Lily Moreno: Giám đốc tiếp thị và người quản lý của bạn. Moreno chịu trách nhiệm phát triển các chiến dịch và sáng kiến ​​nhằm thúc đẩy chương trình chia sẻ xe đạp. Chúng có thể bao gồm email, phương tiện truyền thông xã hội và các kênh khác.
+
 • Cyclistic marketing analytics team: Một nhóm các nhà phân tích dữ liệu chịu trách nhiệm thu thập, phân tích và báo cáo dữ liệu giúp hướng dẫn chiến lược tiếp thị theo chu kỳ. Bạn đã gia nhập nhóm này sáu tháng trước và đang bận rộn tìm hiểu về sứ mệnh và mục tiêu kinh doanh của Cyclistic - cũng như cách bạn, với tư cách là nhà phân tích dữ liệu cấp dưới, có thể giúp Cyclistic đạt được chúng.
+
 • Cyclistic executive team: Đội ngũ điều hành nổi tiếng là chú trọng đến chi tiết sẽ quyết định xem có nên phê duyệt chương trình tiếp thị được đề xuất hay không.
