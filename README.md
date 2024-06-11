@@ -32,3 +32,6 @@ Phân tích dữ liệu để hiểu rõ hơn về cách người dùng sử d�
 • Cyclistic marketing analytics team: Một nhóm các nhà phân tích dữ liệu chịu trách nhiệm thu thập, phân tích và báo cáo dữ liệu giúp hướng dẫn chiến lược tiếp thị theo chu kỳ. Bạn đã gia nhập nhóm này sáu tháng trước và đang bận rộn tìm hiểu về sứ mệnh và mục tiêu kinh doanh của Cyclistic - cũng như cách bạn, với tư cách là nhà phân tích dữ liệu cấp dưới, có thể giúp Cyclistic đạt được chúng.
 
 • Cyclistic executive team: Đội ngũ điều hành nổi tiếng là chú trọng đến chi tiết sẽ quyết định xem có nên phê duyệt chương trình tiếp thị được đề xuất hay không.
+
+## 1.3 A clear statement of the business task :
+Mục đích chính của vai trò công việc này là phân tích dữ liệu Chu kỳ và hiểu biết sâu sắc về các xu hướng tiếp thị dựa trên dữ liệu định hướng và thúc đẩy người dùng, đồng thời chia sẻ chúng với các bên liên quan chính. Hình ảnh trực quan cụ thể và rõ ràng phải được thực hiện và sẵn sàng chia sẻ để tất cả các bên liên quan có thể hiểu được dữ liệu.
