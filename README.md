@@ -4,6 +4,7 @@ Kho lưu trữ này chứa dự án Google Data Analytics Capstone - Case Study 
 Google Data Analytics Capstone Project: 
 
 How Does a Bike-Share Navigate Speedy Success?
+
 Làm thế nào để dịch vụ chia sẻ xe đạp đạt được thành công nhanh chóng?
 
 The Cyclistic case study là một phần của Google Professional Data Analytics Certification.. Trong nghiên cứu điển hình này, tôi đóng vai trò là nhà phân tích dữ liệu cấp dưới tại Cyclistic. Tôi sẽ làm theo các bước quy trình phân tích dữ liệu cơ bản để giải quyết các vấn đề kinh doanh cốt lõi. Tôi là nhà phân tích dữ liệu cấp dưới làm việc trong nhóm phân tích tiếp thị tại Cyclistic, một công ty chia sẻ xe đạp ở Chicago. Giám đốc tiếp thị tin rằng thành công trong tương lai của công ty sẽ phụ thuộc vào việc tối đa hóa số lượng thành viên hàng năm. Vì vậy, với tư cách là một nhóm tiếp thị, anh ấy muốn hiểu cách sử dụng xe đạp đi xe đạp theo những cách khác nhau tùy theo loại thành viên. Ở đây, nhiệm vụ của tôi sẽ là xem xét và phân tích dữ liệu trong 12 tháng, để có được những hiểu biết sâu sắc về dữ liệu này thông qua một số hình ảnh trực quan nhất định và trình bày nó với nhóm. Tôi đã phân tích dữ liệu rất cụ thể và cố gắng hỗ trợ những hiểu biết này bằng các biểu đồ rõ ràng để các đề xuất của tôi có thể được tính đến.
@@ -20,8 +21,17 @@ Tôi đã tải xuống các bộ dữ liệu từ liên kết dưới đây.
 Three questions will guide the future marketing program:
 
 1. How do annual members and casual riders use Cyclistic bikes differently?
+
+1. Các thành viên thường niên và những người đi xe đạp bình thường sử dụng xe đạp địa hình khác nhau như thế nào?
+  
 2. Why would casual riders buy Cyclistic annual memberships?
+
+2. Tại sao những người đi xe đạp bình thường lại mua tư cách thành viên hàng năm của Cyclistic?
+
 3. How can Cyclistic use digital media to influence casual riders to become members?
+
+3. Cyclistic có thể sử dụng phương tiện kỹ thuật số như thế nào để tác động đến việc những người đi xe đạp bình thường trở thành thành viên?
+
 ## 1.1 Bussiness Task : Nhiệm vụ kinh doanh
 Phân tích dữ liệu để hiểu rõ hơn về cách người dùng sử dụng xe đạp của Cyclistic theo loại thành viên và xác định xu hướng dựa trên chiến lược tiếp thị của Cyclistic.
 ## 1.2 Key Stakehoders:
