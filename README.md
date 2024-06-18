@@ -20,15 +20,12 @@ Tôi đã tải xuống các bộ dữ liệu từ liên kết dưới đây.
 # Phase 1: ASK
 Three questions will guide the future marketing program:
 
-1. How do annual members and casual riders use Cyclistic bikes differently?
 
 1. Các thành viên thường niên và những người đi xe đạp bình thường sử dụng xe đạp địa hình khác nhau như thế nào?
   
-2. Why would casual riders buy Cyclistic annual memberships?
 
 2. Tại sao những người đi xe đạp bình thường lại mua tư cách thành viên hàng năm của Cyclistic?
 
-3. How can Cyclistic use digital media to influence casual riders to become members?
 
 3. Cyclistic có thể sử dụng phương tiện kỹ thuật số như thế nào để tác động đến việc những người đi xe đạp bình thường trở thành thành viên?
 
