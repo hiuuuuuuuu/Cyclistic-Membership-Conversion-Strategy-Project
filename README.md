@@ -16,6 +16,6 @@ Với tư cách là nhà phân tích dữ liệu trong nhóm phân tích tiếp 
 Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông tin cho các chiến thuật tiếp thị được nhắm mục tiêu và thúc đẩy chuyển đổi những người đi xe bình thường thành thành viên hàng năm.
 
 # Tool:
-Data Cleaning: Microsoft Excel
-Data Analysis: Microsft SQL Server
-Visualization: Tableau Public
+- Data Cleaning: Microsoft Excel
+- Data Analysis: Microsft SQL Server
+- Visualization: Tableau Public
