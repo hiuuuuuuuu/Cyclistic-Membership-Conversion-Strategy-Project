@@ -16,7 +16,7 @@ Với tư cách là nhà phân tích dữ liệu trong nhóm phân tích tiếp 
 Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông tin cho các chiến thuật tiếp thị được nhắm mục tiêu và thúc đẩy chuyển đổi những người đi xe bình thường thành thành viên hàng năm.
 
 # Tool:
-- Data Cleaning: Microsoft Excel
+- Data Cleaning: Python
 - Data Analysis: Microsft SQL Server
 - Visualization: Tableau Public
 
@@ -36,9 +36,10 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 - Các cột này cung cấp thông tin chi tiết về từng chuyến đi, bao gồm ID chuyến đi (ride_id) , loại xe có thể đi được(rideable_type), ID trạm xuất phát và trạm kết thúc cũng như vị trí, tọa độ và loại thành viên.
 
 ## 3.Process:
-  ### Data Cleaning:
-  1. Checking for Duplicates : Xóa các giá trị trùng lặp trong Excel;
-  2. 
+Tool: Python
+  ### Data Performance:
+  - tiến hành nhập dữ liệu 12 tháng thành một view
+  - 
 
 
 
