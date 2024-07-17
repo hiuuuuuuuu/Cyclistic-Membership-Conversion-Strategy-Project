@@ -8,8 +8,8 @@ I will perform data analysis for a fictional bike-share company in order to help
 How Does a Bike-Share Navigate Speedy Success?
 
 
-Tôi đã tải xuống các bộ dữ liệu từ liên kết dưới đây.
-
+### Data Source: 
+https://divvy-tripdata.s3.amazonaws.com/index.html
 [The previous 12 months of Cyclistic trip data
 ](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
