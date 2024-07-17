@@ -35,6 +35,11 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 - Mỗi tệp trong tập dữ liệu chứa 13 cột liên quan đến việc đạp xe.
 - Các cột này cung cấp thông tin chi tiết về từng chuyến đi, bao gồm ID chuyến đi (ride_id) , loại xe có thể đi được(rideable_type), ID trạm xuất phát và trạm kết thúc cũng như vị trí, tọa độ và loại thành viên.
 
+## 3.Process:
+  ### Data Cleaning:
+  1. Checking for Duplicates : Xóa các giá trị trùng lặp trong Excel;
+  2. 
+
 
 
 
