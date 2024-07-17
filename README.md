@@ -29,4 +29,12 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 - Tần suất chuyến đi mỗi giờ?
 - Tỷ lệ chuyến đi mỗi mùa?
 - Tỷ lệ chuyến đi trong mỗi múi giờ?
-  
+
+## 2. Prepare:
+- Tập dữ liệu từ tháng 1 đến tháng 12 năm 2022
+- Mỗi tệp trong tập dữ liệu chứa 13 cột liên quan đến việc đạp xe.
+- Các cột này cung cấp thông tin chi tiết về từng chuyến đi, bao gồm ID chuyến đi (ride_id) , loại xe có thể đi được(rideable_type), ID trạm xuất phát và trạm kết thúc cũng như vị trí, tọa độ và loại thành viên.
+
+
+
+
