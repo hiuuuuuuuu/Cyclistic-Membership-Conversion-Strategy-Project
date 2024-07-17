@@ -9,7 +9,6 @@ How Does a Bike-Share Navigate Speedy Success?
 
 
 ### Data Source: 
-https://divvy-tripdata.s3.amazonaws.com/index.html
 [The previous 12 months of Cyclistic trip data
 ](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
