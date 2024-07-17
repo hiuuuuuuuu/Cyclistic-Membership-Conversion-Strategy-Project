@@ -1,5 +1,6 @@
 # Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project
 Case study: How does a bike-share navigate speedy success?
+![image](https://github.com/user-attachments/assets/01972782-4fdd-4815-998e-487fcc5a845b)
 
 ## Goal :
 
@@ -7,7 +8,7 @@ I will perform data analysis for a fictional bike-share company in order to help
 
 How Does a Bike-Share Navigate Speedy Success?
 
-
+# LINK:
 ### Data Source: 
 [The previous 12 months of Cyclistic trip data
 ](https://divvy-tripdata.s3.amazonaws.com/index.html) 
