@@ -39,7 +39,12 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 Tool: Python
   ### Data Performance:
   - tiến hành nhập dữ liệu 12 tháng thành một view
-  - 
+  - thêm cột ride_length = end_at - start_at
+  - Tạo ra các cột  day_of_week, month, year, time, hour, season.
+  ### Data Cleaning:
+  - Xóa các cột duplicate, Na.
+  - Xóa các cột right_length = 0 và <0
+  - Lấy ra các cột cần phân tích rideable_type,member_casual,	ride_length,	date,	day_of_week,	month,	day,	year,	hour,	season.
 
 
 
