@@ -49,6 +49,12 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
  - Bằng cách làm sạch dữ liệu trong Excel, tập dữ liệu đã được tinh chỉnh, giải quyết các vấn đề không nhất quán và thông tin về độ dài chuyến đi 
    được định dạng phù hợp cho phân tích tiếp theo.
    
+ ### Data Transformation in SQL:
+ - Importing Data: nhập dữ liệu chuyến đi hàng tháng vào MySQL
+ - Merging Data: Hợp nhất dữ liệu 12 tháng thành một bảng “Annual_trip_data_2022” bằng cách sử dụng UNION ALL
+ - Manipulate Data: Sau khi hợp nhất dữ liệu , tạo một bảng mới 'analyze_annual_trip_data', tạo thêm các cột  “month,” “day,” “hour,” và   
+   “duration_minutes” cho việc dễ dàng so sánh tần suất đi xe.
+
 
 
 
