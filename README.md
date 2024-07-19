@@ -36,16 +36,18 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 - Các cột này cung cấp thông tin chi tiết về từng chuyến đi, bao gồm ID chuyến đi (ride_id) , loại xe có thể đi được(rideable_type), ID trạm xuất phát và trạm kết thúc cũng như vị trí, tọa độ và loại thành viên.
 
 ## 3.Process:
-Tool: Python
-  ### Data Performance:
-  - tiến hành nhập dữ liệu 12 tháng thành một view
-  - thêm cột ride_length = end_at - start_at
-  - Tạo ra các cột  day_of_week, month, year, time, hour, season.
-  ### Data Cleaning:
-  - Xóa các cột duplicate, Na.
-  - Xóa các cột right_length = 0 và <0
-  - Lấy ra các cột cần phân tích rideable_type,member_casual,	ride_length,	date,	day_of_week,	month,	day,	year,	hour,	season.
-
+  
+  ### Data Cleaning in Excel:
+  - Kiểm tra các giá trị trùng lặp: Các giá trị trùng lặp được kiểm tra bằng tính năng “Xóa các giá trị trùng lặp” tích hợp trong Excel. Điều này giúp      đảm bảo tính toàn vẹn dữ liệu và loại bỏ mọi mục nhập trùng lặp.
+  - Xác định các giá trị cột
+  - Xóa các giá trị trống: Data -> Filter. Tập dữ liệu đã được kiểm tra để tìm các giá trị trống hoặc không đầy đủ trên tất cả các cột. Các hàng thiếu      giá trị, đặc biệt là trong các cột như start_station_name, start_station_id, end_station_name và end_station_id, đã bị xóa để đảm bảo tính đầy đủ   
+    của dữ liệu.
+  - Xóa các cột không cần thiết start_lat, start_lng, end_lat, and end_lng
+  - Thêm Cột Độ dài Chuyến đi: Một cột mới có tên “ride_length” đã được thêm vào để tính thời lượng của mỗi chuyến đi. Giá trị trong cột Ride_length có     được bằng cách trừ dấu thời gian started_at khỏi dấu thời gian kết thúc_at. Đặt Định dạng Thời gian: Cột Ride_length được định dạng là “HH:MM:SS”       bằng cách sử dụng tùy chọn “Format > Cells > Time > 37:30:55”  trong Excel. Điều này đảm bảo rằng thời lượng chuyến đi được trình bày ở định dạng       thời gian tiêu chuẩn hóa.
+ - Sắp xếp bảng: Bảng được sắp xếp theo thứ tự tăng dần dựa trên cột started_at để đảm bảo tính nhất quán của dữ liệu.
+ - Bằng cách làm sạch dữ liệu trong Excel, tập dữ liệu đã được tinh chỉnh, giải quyết các vấn đề không nhất quán và thông tin về độ dài chuyến đi 
+   được định dạng phù hợp cho phân tích tiếp theo.
+   
 
 
 
