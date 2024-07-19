@@ -39,7 +39,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   
   ### Data Cleaning in Excel:
   - Kiểm tra các giá trị trùng lặp: Các giá trị trùng lặp được kiểm tra bằng tính năng “Xóa các giá trị trùng lặp” tích hợp trong Excel. Điều này giúp      đảm bảo tính toàn vẹn dữ liệu và loại bỏ mọi mục nhập trùng lặp.
-  - Xác thực các giá trị cột: Các giá trị trong các cột cụ thể, chẳng hạn như Rideable_type và member_casual, đã được xác minh để đảm bảo tính nhất         quán và chính xác. Các giá trị hợp lệ duy nhất, bao gồm classic_bike, docked_bike, electric_bike cho Rideable_type và normal, member cho         
+  - Xác thực các giá trị cột: Các giá trị trong các cột cụ thể, chẳng hạn như Rideable_type và member_casual, đã được xác minh để đảm bảo tính nhất         quán và chính xác. Các giá trị hợp lệ duy nhất, bao gồm (classic_bike, docked_bike, electric_bike) cho Rideable_type và (normal, member) cho    
     member_casual, đều được giữ lại.
   - Xóa các giá trị trống: Data -> Filter. Tập dữ liệu đã được kiểm tra để tìm các giá trị trống hoặc không đầy đủ trên tất cả các cột. Các hàng thiếu      giá trị, đặc biệt là trong các cột như start_station_name, start_station_id, end_station_name và end_station_id, đã bị xóa để đảm bảo tính đầy đủ   
     của dữ liệu.
