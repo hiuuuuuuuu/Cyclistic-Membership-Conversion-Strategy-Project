@@ -57,7 +57,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
    
 ## 4. Analyze
 - Trong giai đoạn này tìm hiểu sâu vào dữ liệu để tìm hiểu và khám phá giải quyết các vấn đề chính liên quan cách các thành viên hàng năm (member) và người sử dụng bình thường (casual) sử dụng xe đạp một cách khác nhau.Trọng tâm tìm hiểu hành vi , sở thích nhằm đưa ra các chiến lược nhằm chuyển đổi thành viên causual sang member. Để giải quyết vấn đề đó sử dụng SQL Workbench.
-- Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
+  ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
   ![image](https://github.com/user-attachments/assets/bbf34986-3f82-4c7a-a687-48034efff68c)
 
 Tỷ lệ chuyến đi theo mỗi loại xe đạp?
