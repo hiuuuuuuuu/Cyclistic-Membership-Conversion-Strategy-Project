@@ -69,6 +69,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   ![image](https://github.com/user-attachments/assets/594561c6-08a8-4f0d-8451-e9ad4d05c22b)
 
   ### Số lượng người đi mỗi ngày?
+  ![Uploading image.png…]()
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
 
