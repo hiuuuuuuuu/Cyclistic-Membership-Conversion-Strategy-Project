@@ -60,8 +60,12 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
   ![image](https://github.com/user-attachments/assets/bbf34986-3f82-4c7a-a687-48034efff68c)
 
-Tỷ lệ chuyến đi theo mỗi loại xe đạp?
-Tỷ lệ chuyến đi mỗi tháng?
+  ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
+  ![image](https://github.com/user-attachments/assets/5edec1f4-cfc3-4e23-8246-eff714679d41)
+
+  ### Tỷ lệ chuyến đi mỗi tháng?
+  ![image](https://github.com/user-attachments/assets/594561c6-08a8-4f0d-8451-e9ad4d05c22b)
+
 Tỷ lệ chuyến đi mỗi mùa?
 Thời gian đi xe trung bình theo ngày ( phút)?
 Tần suất chuyến đi mỗi giờ?
