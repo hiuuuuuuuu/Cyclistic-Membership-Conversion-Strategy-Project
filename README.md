@@ -71,8 +71,9 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   
   ### Tần suất chuyến đi mỗi giờ?
   
-Tỷ lệ chuyến đi mỗi mùa?
-Tỷ lệ chuyến đi trong mỗi múi giờ? 
+  ### Tỷ lệ chuyến đi mỗi mùa?
+  
+  ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
 
 
 
