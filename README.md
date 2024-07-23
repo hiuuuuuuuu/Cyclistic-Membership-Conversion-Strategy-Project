@@ -1,4 +1,4 @@
-# Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project
+![image](https://github.com/user-attachments/assets/c063a5b0-eeec-4b74-b92b-651e998dabac)![image](https://github.com/user-attachments/assets/b77ffa68-3137-4874-89d4-83fc4359c11b)# Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project
 Case study: How does a bike-share navigate speedy success?
 ![image](https://github.com/user-attachments/assets/01972782-4fdd-4815-998e-487fcc5a845b)
 
@@ -69,7 +69,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   ![image](https://github.com/user-attachments/assets/594561c6-08a8-4f0d-8451-e9ad4d05c22b)
 
   ### Số lượng người đi mỗi ngày?
-  ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/976ee79c-5333-4ccb-9a78-3e0cbb9b3737)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
 
