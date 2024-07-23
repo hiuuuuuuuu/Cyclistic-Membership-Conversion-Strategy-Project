@@ -27,8 +27,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 - Tỷ lệ chuyến đi mỗi mùa?
 - Thời gian đi xe trung bình theo ngày ( phút)?
 - Tần suất chuyến đi mỗi giờ?
-- Tỷ lệ chuyến đi mỗi mùa?
-- Tỷ lệ chuyến đi trong mỗi múi giờ?
+- Tỷ lệ chuyến đi trong mỗi múi giờ (sáng-trưa-chiều-tối)?
 
 ## 2. Prepare:
 - Tập dữ liệu từ tháng 1 đến tháng 12 năm 2022
