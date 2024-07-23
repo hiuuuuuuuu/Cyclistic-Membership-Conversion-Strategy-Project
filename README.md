@@ -54,6 +54,8 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
  - Merging Data: Hợp nhất dữ liệu 12 tháng thành một bảng “Annual_trip_data_2022” bằng cách sử dụng UNION ALL
  - Manipulate Data: Sau khi hợp nhất dữ liệu , tạo một bảng mới 'analyze_annual_trip_data', tạo thêm các cột  “month,” “day,” “hour,” và   
    “duration_minutes” cho việc dễ dàng so sánh tần suất đi xe.
+   - Thêm cột ride_length_minutes
+   - Tạo ra cột season
    
 ## 4. Analyze
 - Trong giai đoạn này tìm hiểu sâu vào dữ liệu để tìm hiểu và khám phá giải quyết các vấn đề chính liên quan cách các thành viên hàng năm (member) và người sử dụng bình thường (casual) sử dụng xe đạp một cách khác nhau.Trọng tâm tìm hiểu hành vi , sở thích nhằm đưa ra các chiến lược nhằm chuyển đổi thành viên causual sang member. Để giải quyết vấn đề đó sử dụng SQL Workbench.
