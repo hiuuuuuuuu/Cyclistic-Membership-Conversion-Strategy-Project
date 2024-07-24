@@ -10,6 +10,9 @@ Case study: How does a bike-share navigate speedy success?
 
   ### SQL code:
   
+  - [Merge_Manipulate_data](https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/merge_manipulate_data.sql) 
+
+  
   - [Merge_Manipulate_data](http://your-tableau-dashboard-link.com](https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/merge_manipulate_data.sql).
   - merge_manipulate_data:
     
