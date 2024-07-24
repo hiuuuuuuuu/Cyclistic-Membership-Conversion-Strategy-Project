@@ -74,10 +74,10 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   ![image](https://github.com/user-attachments/assets/bbf34986-3f82-4c7a-a687-48034efff68c)
 
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
-![image](https://github.com/user-attachments/assets/a78277f6-58da-481a-af10-e3f9ef143696)
+![image](https://github.com/user-attachments/assets/f78b5591-a47c-42fb-9bc4-47537e2d1db3)
 
   ### Tỷ lệ chuyến đi mỗi tháng?
-![image](https://github.com/user-attachments/assets/64d4538d-6150-4f0c-86d3-b3ea6a90602e)
+![image](https://github.com/user-attachments/assets/7af0ae16-a59d-43f1-b056-65dc79f77ca0)
 
   ### Số lượng người đi mỗi ngày?
 ![image](https://github.com/user-attachments/assets/3ef52ce2-aa08-4a85-a3fa-e8ba424a3618)
