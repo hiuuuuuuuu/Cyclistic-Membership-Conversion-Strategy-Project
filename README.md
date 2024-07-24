@@ -74,23 +74,23 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
   ![image](https://github.com/user-attachments/assets/bbf34986-3f82-4c7a-a687-48034efff68c)
 
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
-  ![image](https://github.com/user-attachments/assets/5edec1f4-cfc3-4e23-8246-eff714679d41)
+![image](https://github.com/user-attachments/assets/a78277f6-58da-481a-af10-e3f9ef143696)
 
   ### Tỷ lệ chuyến đi mỗi tháng?
-  ![image](https://github.com/user-attachments/assets/594561c6-08a8-4f0d-8451-e9ad4d05c22b)
+![image](https://github.com/user-attachments/assets/64d4538d-6150-4f0c-86d3-b3ea6a90602e)
 
   ### Số lượng người đi mỗi ngày?
-![image](https://github.com/user-attachments/assets/976ee79c-5333-4ccb-9a78-3e0cbb9b3737)
+![image](https://github.com/user-attachments/assets/3ef52ce2-aa08-4a85-a3fa-e8ba424a3618)
 
   ### Tần suất chuyến đi mỗi giờ?
-  ![image](https://github.com/user-attachments/assets/7bf9eaf1-d6ac-4379-b285-54285fd08976)
+![image](https://github.com/user-attachments/assets/e4235df8-8a1f-4837-822d-74595b2b34a8)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
-![image](https://github.com/user-attachments/assets/59b2ae0a-f73d-4609-a490-62e22cb59a75)
+![image](https://github.com/user-attachments/assets/c202b71d-104b-4701-a39c-eee5e66632fa)
 
     
   ### Tỷ lệ chuyến đi mỗi mùa?
-  ![image](https://github.com/user-attachments/assets/94826fc2-eb0f-4dee-b2b9-369fc285c09d)
+![image](https://github.com/user-attachments/assets/76a9e810-87f5-4a83-931a-a463a2d0f543)
 
   
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
@@ -104,25 +104,25 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
 ![image](https://github.com/user-attachments/assets/88246a59-5f23-4b16-af20-ad16102e804d)
 
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
-![image](https://github.com/user-attachments/assets/868e8222-0f22-43b6-a764-31a6ce20ed5e)
+![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
   
   ### Tỷ lệ chuyến đi mỗi tháng?
-![image](https://github.com/user-attachments/assets/69cd21c0-f23e-4712-a158-524dd654cf79)
+![image](https://github.com/user-attachments/assets/51409140-389a-48c3-b376-ac71cfe4e8d3)
 
 
   ### Số lượng người đi mỗi ngày?
-![image](https://github.com/user-attachments/assets/bb3ce5b5-043c-4f8d-81b8-90b42aa91571)
+![image](https://github.com/user-attachments/assets/07a6f040-45e1-4581-becd-49327fd693f5)
 
   ### Tần suất chuyến đi mỗi giờ?
-![image](https://github.com/user-attachments/assets/b1a7ca28-a522-4748-8b26-cc97df18f876)
+![image](https://github.com/user-attachments/assets/d1cc74d3-a2d1-4a87-968c-e5b481986da2)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
-![image](https://github.com/user-attachments/assets/3352292a-cbf4-439f-a44c-1bdb7861b610)
+![image](https://github.com/user-attachments/assets/598c8f82-2c18-41af-87e1-56a613888224)
 
   ### Tỷ lệ chuyến đi mỗi mùa?
-![image](https://github.com/user-attachments/assets/8aad92cc-4981-427e-aa98-c150a924493c)
+![image](https://github.com/user-attachments/assets/07ca0877-8572-4847-b341-9a46c8c34cb8)
 
 
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
-![image](https://github.com/user-attachments/assets/53483484-559e-4fee-b8f1-e1d0de04b6ea)
+![image](https://github.com/user-attachments/assets/dbf1894f-7e92-4647-af5e-f4917db57470)
