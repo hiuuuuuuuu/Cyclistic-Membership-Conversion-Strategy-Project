@@ -27,7 +27,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 
 # Tool:
 - Data Cleaning: Excel
-- Data Analysis: Microsft SQL Server
+- Data Analysis: MYSQL Workbench
 - Visualization: Tableau Public
 
 ## 1. ASK:
