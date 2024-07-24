@@ -77,33 +77,33 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
   
-![image](https://github.com/user-attachments/assets/f78b5591-a47c-42fb-9bc4-47537e2d1db3)
+  ![image](https://github.com/user-attachments/assets/f78b5591-a47c-42fb-9bc4-47537e2d1db3)
 
   ### Tỷ lệ chuyến đi mỗi tháng?
   
-![image](https://github.com/user-attachments/assets/7af0ae16-a59d-43f1-b056-65dc79f77ca0)
+  ![image](https://github.com/user-attachments/assets/7af0ae16-a59d-43f1-b056-65dc79f77ca0)
 
   ### Số lượng người đi mỗi ngày?
   
-![image](https://github.com/user-attachments/assets/718a7f60-3e67-47a0-adf3-73c7afda3fd1)
+  ![image](https://github.com/user-attachments/assets/718a7f60-3e67-47a0-adf3-73c7afda3fd1)
 
   ### Tần suất chuyến đi mỗi giờ?
   
-![image](https://github.com/user-attachments/assets/8d4d1ddb-da30-4f95-99bf-2f67ad5a5c97)
+  ![image](https://github.com/user-attachments/assets/8d4d1ddb-da30-4f95-99bf-2f67ad5a5c97)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
   
-![image](https://github.com/user-attachments/assets/54ea100e-3576-4f9d-bafd-a0d385749efd)
+  ![image](https://github.com/user-attachments/assets/54ea100e-3576-4f9d-bafd-a0d385749efd)
 
     
   ### Tỷ lệ chuyến đi mỗi mùa?
   
-![image](https://github.com/user-attachments/assets/bb02bbdf-57f9-4997-82b3-1d86790f86f9)
+  ![image](https://github.com/user-attachments/assets/bb02bbdf-57f9-4997-82b3-1d86790f86f9)
 
   
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
 
-![image](https://github.com/user-attachments/assets/5a42aa1d-4e1b-406f-b21f-b3d2aa687a50)
+  ![image](https://github.com/user-attachments/assets/5a42aa1d-4e1b-406f-b21f-b3d2aa687a50)
 
 # 5. Share
 
@@ -111,30 +111,30 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
 
   ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
   
-![image](https://github.com/user-attachments/assets/88246a59-5f23-4b16-af20-ad16102e804d)
+  ![image](https://github.com/user-attachments/assets/88246a59-5f23-4b16-af20-ad16102e804d)
 - Trong năm 2022, thành viên (member) chiếm 69.41% trong tổng số 156.675 rides.
   
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
-![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
+  ![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
 - rides có sự ưu tiên sử dụng electric_bike
   
   ### Tỷ lệ chuyến đi mỗi tháng?
-![image](https://github.com/user-attachments/assets/51409140-389a-48c3-b376-ac71cfe4e8d3)
+  ![image](https://github.com/user-attachments/assets/51409140-389a-48c3-b376-ac71cfe4e8d3)
 
 
   ### Số lượng người đi mỗi ngày?
-![image](https://github.com/user-attachments/assets/07a6f040-45e1-4581-becd-49327fd693f5)
+  ![image](https://github.com/user-attachments/assets/07a6f040-45e1-4581-becd-49327fd693f5)
 
   ### Tần suất chuyến đi mỗi giờ?
-![image](https://github.com/user-attachments/assets/d1cc74d3-a2d1-4a87-968c-e5b481986da2)
+  ![image](https://github.com/user-attachments/assets/d1cc74d3-a2d1-4a87-968c-e5b481986da2)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
-![image](https://github.com/user-attachments/assets/598c8f82-2c18-41af-87e1-56a613888224)
+  ![image](https://github.com/user-attachments/assets/598c8f82-2c18-41af-87e1-56a613888224)
 
   ### Tỷ lệ chuyến đi mỗi mùa?
-![image](https://github.com/user-attachments/assets/07ca0877-8572-4847-b341-9a46c8c34cb8)
+  ![image](https://github.com/user-attachments/assets/07ca0877-8572-4847-b341-9a46c8c34cb8)
 
 
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
-![image](https://github.com/user-attachments/assets/dbf1894f-7e92-4647-af5e-f4917db57470)
+  ![image](https://github.com/user-attachments/assets/dbf1894f-7e92-4647-af5e-f4917db57470)
