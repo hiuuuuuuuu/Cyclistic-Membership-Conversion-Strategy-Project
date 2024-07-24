@@ -99,3 +99,6 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 
 # 5. Share
 
+Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích dữ liệu Cyclistic Bike Share thông qua Tableau Public.
+  ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
+
