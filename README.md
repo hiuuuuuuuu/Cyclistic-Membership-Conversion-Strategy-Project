@@ -97,4 +97,5 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 
 ![image](https://github.com/user-attachments/assets/b94be24d-d85d-4aa1-96e8-68da65f05560)
 
+# 5. Share
 
