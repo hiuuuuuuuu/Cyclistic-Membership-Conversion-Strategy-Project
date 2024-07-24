@@ -108,16 +108,21 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
 
   
   ### Tỷ lệ chuyến đi mỗi tháng?
-![image](https://github.com/user-attachments/assets/4a02dc1d-e77d-4886-9e05-83ee201213c0)
+![image](https://github.com/user-attachments/assets/69cd21c0-f23e-4712-a158-524dd654cf79)
 
 
   ### Số lượng người đi mỗi ngày?
+![image](https://github.com/user-attachments/assets/bb3ce5b5-043c-4f8d-81b8-90b42aa91571)
 
   ### Tần suất chuyến đi mỗi giờ?
+![image](https://github.com/user-attachments/assets/b1a7ca28-a522-4748-8b26-cc97df18f876)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
+![image](https://github.com/user-attachments/assets/3352292a-cbf4-439f-a44c-1bdb7861b610)
 
   ### Tỷ lệ chuyến đi mỗi mùa?
+![image](https://github.com/user-attachments/assets/8aad92cc-4981-427e-aa98-c150a924493c)
 
 
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
+![image](https://github.com/user-attachments/assets/53483484-559e-4fee-b8f1-e1d0de04b6ea)
