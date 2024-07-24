@@ -12,18 +12,11 @@ Case study: How does a bike-share navigate speedy success?
   
   - [Merge_Manipulate_data](https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/merge_manipulate_data.sql) 
 
-  
-  - [Merge_Manipulate_data](http://your-tableau-dashboard-link.com](https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/merge_manipulate_data.sql).
-  - merge_manipulate_data:
-    
-     https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/merge_manipulate_data.sql
-  - anakyze_data:
-    
-    https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/analyze.sql
+  - [Analyze data](https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/analyze.sql)
 
   ### Visualization:
   
-  - https://public.tableau.com/views/cyclistic_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  - Tableau: [Cyclistic Dashboard](https://public.tableau.com/views/cyclistic_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 # Introduce:
 Nghiên cứu điển hình này trình bày một dự án phân tích dữ liệu được thực hiện như một phần của khóa học Chứng chỉ Chuyên nghiệp về Phân tích Dữ liệu của Google, Dự án Capstone, tập trung vào Cyclistic, một công ty cho thuê xe đạp
