@@ -24,7 +24,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 - Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
 - Tỷ lệ chuyến đi theo mỗi loại xe đạp?
 - Tỷ lệ chuyến đi mỗi tháng?
-- Số lượng người đi mổi ngày ?
+- Số lượng người đi mỗi ngày ?
 - Tỷ lệ chuyến đi mỗi mùa ?
 - Thời gian đi xe trung bình theo ngày ( phút)?
 - Tần suất chuyến đi mỗi giờ?
