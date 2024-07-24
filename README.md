@@ -102,7 +102,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích dữ liệu Cyclistic Bike Share thông qua Tableau Public.
   ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
 ![image](https://github.com/user-attachments/assets/88246a59-5f23-4b16-af20-ad16102e804d)
-
+- Trong năm 2022, thành viên (member) chiếm 69.41% trong tổng số 156.675 rides.
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
 ![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
