@@ -4,9 +4,13 @@ Case study: How does a bike-share navigate speedy success?
 
 
 # LINK:
-### Data Source: 
+  ### Data Source: 
 [The previous 12 months of Cyclistic trip data
 ](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+
+  ### SQL code:
+  - https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/merge_manipulate_data.sql
+  - https://github.com/hiuuuuuuuu/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project/blob/main/analyze.sql
 
 # Introduce:
 Nghiên cứu điển hình này trình bày một dự án phân tích dữ liệu được thực hiện như một phần của khóa học Chứng chỉ Chuyên nghiệp về Phân tích Dữ liệu của Google, Dự án Capstone, tập trung vào Cyclistic, một công ty cho thuê xe đạp
