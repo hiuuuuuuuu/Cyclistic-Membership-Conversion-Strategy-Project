@@ -70,26 +70,34 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
    
 ## 4. Analyze
 - Trong giai đoạn này tìm hiểu sâu vào dữ liệu để tìm hiểu và khám phá giải quyết các vấn đề chính liên quan cách các thành viên hàng năm (member) và người sử dụng bình thường (casual) sử dụng xe đạp một cách khác nhau.Trọng tâm tìm hiểu hành vi , sở thích nhằm đưa ra các chiến lược nhằm chuyển đổi thành viên causual sang member. Để giải quyết vấn đề đó sử dụng SQL Workbench.
+  
   ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
+  
   ![image](https://github.com/user-attachments/assets/bbf34986-3f82-4c7a-a687-48034efff68c)
 
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
+  
 ![image](https://github.com/user-attachments/assets/f78b5591-a47c-42fb-9bc4-47537e2d1db3)
 
   ### Tỷ lệ chuyến đi mỗi tháng?
+  
 ![image](https://github.com/user-attachments/assets/7af0ae16-a59d-43f1-b056-65dc79f77ca0)
 
   ### Số lượng người đi mỗi ngày?
+  
 ![image](https://github.com/user-attachments/assets/718a7f60-3e67-47a0-adf3-73c7afda3fd1)
 
   ### Tần suất chuyến đi mỗi giờ?
+  
 ![image](https://github.com/user-attachments/assets/8d4d1ddb-da30-4f95-99bf-2f67ad5a5c97)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
+  
 ![image](https://github.com/user-attachments/assets/54ea100e-3576-4f9d-bafd-a0d385749efd)
 
     
   ### Tỷ lệ chuyến đi mỗi mùa?
+  
 ![image](https://github.com/user-attachments/assets/bb02bbdf-57f9-4997-82b3-1d86790f86f9)
 
   
@@ -100,9 +108,12 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 # 5. Share
 
 Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích dữ liệu Cyclistic Bike Share thông qua Tableau Public.
+
   ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
+  
 ![image](https://github.com/user-attachments/assets/88246a59-5f23-4b16-af20-ad16102e804d)
 - Trong năm 2022, thành viên (member) chiếm 69.41% trong tổng số 156.675 rides.
+  
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
 ![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
