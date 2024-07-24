@@ -80,22 +80,22 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 ![image](https://github.com/user-attachments/assets/7af0ae16-a59d-43f1-b056-65dc79f77ca0)
 
   ### Số lượng người đi mỗi ngày?
-![image](https://github.com/user-attachments/assets/3ef52ce2-aa08-4a85-a3fa-e8ba424a3618)
+![image](https://github.com/user-attachments/assets/718a7f60-3e67-47a0-adf3-73c7afda3fd1)
 
   ### Tần suất chuyến đi mỗi giờ?
-![image](https://github.com/user-attachments/assets/e4235df8-8a1f-4837-822d-74595b2b34a8)
+![image](https://github.com/user-attachments/assets/8d4d1ddb-da30-4f95-99bf-2f67ad5a5c97)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
-![image](https://github.com/user-attachments/assets/c202b71d-104b-4701-a39c-eee5e66632fa)
+![image](https://github.com/user-attachments/assets/54ea100e-3576-4f9d-bafd-a0d385749efd)
 
     
   ### Tỷ lệ chuyến đi mỗi mùa?
-![image](https://github.com/user-attachments/assets/76a9e810-87f5-4a83-931a-a463a2d0f543)
+![image](https://github.com/user-attachments/assets/bb02bbdf-57f9-4997-82b3-1d86790f86f9)
 
   
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
 
-![image](https://github.com/user-attachments/assets/b94be24d-d85d-4aa1-96e8-68da65f05560)
+![image](https://github.com/user-attachments/assets/5a42aa1d-4e1b-406f-b21f-b3d2aa687a50)
 
 # 5. Share
 
