@@ -72,7 +72,7 @@ Goal: khám phá những hiểu biết quan trọng có thể cung cấp thông 
 ![image](https://github.com/user-attachments/assets/976ee79c-5333-4ccb-9a78-3e0cbb9b3737)
 
   ### Thời gian đi xe trung bình theo ngày ( phút)?
-![image](https://github.com/user-attachments/assets/ed15264c-cd1c-4864-a471-fae8b7e4cf3e)
+![image](https://github.com/user-attachments/assets/59b2ae0a-f73d-4609-a490-62e22cb59a75)
 
     
   ### Tỷ lệ chuyến đi mỗi mùa?
