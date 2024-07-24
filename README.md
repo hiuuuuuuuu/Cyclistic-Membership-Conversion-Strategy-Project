@@ -106,6 +106,7 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
 ![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
+- rides có sự ưu tiên sử dụng electric_bike
   
   ### Tỷ lệ chuyến đi mỗi tháng?
 ![image](https://github.com/user-attachments/assets/51409140-389a-48c3-b376-ac71cfe4e8d3)
