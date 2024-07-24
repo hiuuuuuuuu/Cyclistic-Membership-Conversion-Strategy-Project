@@ -103,3 +103,21 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
   ### Tỷ lệ người đi xe thông thường so với thành viên hàng năm?
 ![image](https://github.com/user-attachments/assets/88246a59-5f23-4b16-af20-ad16102e804d)
 
+  ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
+![image](https://github.com/user-attachments/assets/868e8222-0f22-43b6-a764-31a6ce20ed5e)
+
+  
+  ### Tỷ lệ chuyến đi mỗi tháng?
+![image](https://github.com/user-attachments/assets/4a02dc1d-e77d-4886-9e05-83ee201213c0)
+
+
+  ### Số lượng người đi mỗi ngày?
+
+  ### Tần suất chuyến đi mỗi giờ?
+
+  ### Thời gian đi xe trung bình theo ngày ( phút)?
+
+  ### Tỷ lệ chuyến đi mỗi mùa?
+
+
+  ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
