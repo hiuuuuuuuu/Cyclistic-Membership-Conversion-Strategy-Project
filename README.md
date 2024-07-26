@@ -152,7 +152,8 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
   - Phân bố múi giờ: member xu hướng sử dụng nhiều vào buổi sáng, casual có mức độ sử dụng nhiều ở buổi đêm
     
 
-
+  ### Những chiến lược chuyển đổi những người đi xe đạp không thường xuyên (casual) sang thành viên thường xuyên (member):
+      #### Các chương trình khuyến mãi: 
 
 
 
