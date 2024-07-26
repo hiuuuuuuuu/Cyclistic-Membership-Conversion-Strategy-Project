@@ -117,7 +117,7 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
   ![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
-- rides(member, casual) có sự ưu tiên sử dụng electric_bike nhiều nhất theo sau đó dòng classic_bike.
+- member có sự ưu tiên sử dụng electric_bike, classic_bike. casual sữ dụng docked_bike nhiều nhất.
   
   ### Tỷ lệ chuyến đi mỗi tháng?
   ![image](https://github.com/user-attachments/assets/51409140-389a-48c3-b376-ac71cfe4e8d3)
@@ -142,9 +142,15 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
 - member có mức độ sử dụng nhiều trải dài vào ban ngày, casual có xu hướng thích sử dụng vào ban đêm.
 
 # 6. ACT:
-  ## Những điểm chính:
+  Những điểm chính:
   Dựa vào quá trình phân tích tôi có vài điểm chính đưa ra:
-  - # Sở thích về loại xe: 
+  - Sở thích về loại xe: Các member có sự ưu tiên dùng dòng xe cơ bản và dòng xe điện , trong khi casual có sự ưu tiên sử dụng với dòng xe docked
+  - Sự thay đổi theo tháng: Các member luôn có tỷ lệ sử dụng cao hơn casual. member sử dụng nhiều vào tháng 2 , casual dùng nhiều vào tháng 7.
+  - Sự thay đổi theo ngày: Cả member và casual đều có mức độ sử dụng nhiều vào những ngày trong tuần, ít hơn trong ngày cuối tuần.
+  - Thời lượng sữ dụng xe đạp: Khoảng thời gian sử dụng xe đạp của casual có mức độ dài hơn so với member.
+  - Gio sử dụng cao điểm : member va casual đều có mức độ sử dụng cào vào 7-8 sáng, 6-7 h chiều.
+  - Phân bố múi giờ: member xu hướng sử dụng nhiều vào buổi sáng, casual có mức độ sử dụng nhiều ở buổi đêm
+    
 
 
 
