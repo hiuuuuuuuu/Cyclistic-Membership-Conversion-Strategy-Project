@@ -140,3 +140,21 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
   ![image](https://github.com/user-attachments/assets/dbf1894f-7e92-4647-af5e-f4917db57470)
 - member có mức độ sử dụng nhiều trải dài vào ban ngày, casual có xu hướng thích sử dụng vào ban đêm.
+
+# 6. ACT:
+  ## Những điểm chính:
+  Dựa vào quá trình phân tích tôi có vài điểm chính đưa ra:
+  - # Sở thích về loại xe: 
+
+
+
+
+
+
+
+
+
+
+
+  
+  
