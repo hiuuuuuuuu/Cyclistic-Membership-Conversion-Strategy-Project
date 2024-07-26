@@ -117,24 +117,26 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
   ### Tỷ lệ chuyến đi theo mỗi loại xe đạp?
   ![image](https://github.com/user-attachments/assets/bc4cac29-8e2a-4c42-9cd9-b51953c1c3ce)
 
-- rides có sự ưu tiên sử dụng electric_bike
+- rides(member, casual) có sự ưu tiên sử dụng electric_bike nhiều nhất theo sau đó dòng classic_bike.
   
   ### Tỷ lệ chuyến đi mỗi tháng?
   ![image](https://github.com/user-attachments/assets/51409140-389a-48c3-b376-ac71cfe4e8d3)
-
+- Qua ta thấy member sử dụng nhiều nhất vào tháng 2, casual dùng nhiều nhất rơi vào tháng 7.
 
   ### Số lượng người đi mỗi ngày?
   ![image](https://github.com/user-attachments/assets/07a6f040-45e1-4581-becd-49327fd693f5)
-
+- Nhìn chung rides có xu huong sử dụng xe đạp trải đều có sự thấp vào ngày cuối tuần, giữa tuần.
   ### Tần suất chuyến đi mỗi giờ?
   ![image](https://github.com/user-attachments/assets/d1cc74d3-a2d1-4a87-968c-e5b481986da2)
-
+- rides có xu hướng sử dụng xe đạp nhiều vào khoảng 7-8 h sáng và 6-8 h chiều rơi khoảng giờ đi làm và tan tầm.
   ### Thời gian đi xe trung bình theo ngày ( phút)?
   ![image](https://github.com/user-attachments/assets/598c8f82-2c18-41af-87e1-56a613888224)
-
+- Nhìn chung casual sử dụng xe đạp lâu và dài hơn so với member.
+  
   ### Tỷ lệ chuyến đi mỗi mùa?
   ![image](https://github.com/user-attachments/assets/07ca0877-8572-4847-b341-9a46c8c34cb8)
-
+- member sử dụng nhiều vào mùa đông, casual nhỉnh vào mùa hè.
 
   ### Tỷ lệ chuyến đi trong mỗi múi giờ? 
   ![image](https://github.com/user-attachments/assets/dbf1894f-7e92-4647-af5e-f4917db57470)
+- member có mức độ sử dụng nhiều trải dài vào ban ngày, casual có xu hướng thích sử dụng vào ban đêm.
