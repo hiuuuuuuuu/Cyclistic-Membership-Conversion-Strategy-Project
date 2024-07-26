@@ -153,13 +153,13 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
     
 
   ### Những chiến lược chuyển đổi những người đi xe đạp không thường xuyên (casual) sang thành viên thường xuyên (member):
-      #### Các chương trình khuyến mãi: 
-
-
-
-
-
-
+  
+  - Các chương trình khuyến mãi: Cung cấp gói giảm giá 50% tháng đầu tiên khi đăng kí thành viên, đồng thời nêu vật lên những lợi ích khi sử dụng gói thành viên tiết kiệm chi phí, tiện lợi, linh động.
+  - Có các chương trình trải nghiệm sử dụng miễn phí nâng cao cảm nhận người dùng tăng sự tin cậy.
+  - Các chiến dịch quảng bá: nêu bật mối quan tâm người dùng hướng tới việc bảo vệ sức khỏe thông qua số giờ đạp xe giúp cải thiện thế nào về mặt tinh thần sức khỏe. Ngoài ra, nêu bật lên việc bảo vệ môi trường xanh, không khí        trong sách.
+  - Cải thiện chất lượng thông qua việc tăng các bãi đỗ xe các dòng xe gần các trung tâm, tòa nhà lớn, nơi có nhiều người đi chuyển, gần các bến tàu, bến ga.
+  - Có các chương trình tích điểm, lấy phần thưởng, các giải thưởng -> tăng sự phấn khích người dùng.
+  - Có các chính sách bảo dưỡng xe định kì để khách hàng có được trải nhiệm ấn tượng tốt, thoải mái, dễ chịu.
 
 
 
