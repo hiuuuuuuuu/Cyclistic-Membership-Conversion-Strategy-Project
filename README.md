@@ -142,7 +142,7 @@ Giai đoạn chia sẻ những phân tích hiểu biết từ việc phân tích
 - member có mức độ sử dụng nhiều trải dài vào ban ngày, casual có xu hướng thích sử dụng vào ban đêm.
 
 # 6. ACT:
-  Những điểm chính:
+  ### Những điểm chính:
   Dựa vào quá trình phân tích tôi có vài điểm chính đưa ra:
   - Sở thích về loại xe: Các member có sự ưu tiên dùng dòng xe cơ bản và dòng xe điện , trong khi casual có sự ưu tiên sử dụng với dòng xe docked
   - Sự thay đổi theo tháng: Các member luôn có tỷ lệ sử dụng cao hơn casual. member sử dụng nhiều vào tháng 2 , casual dùng nhiều vào tháng 7.
