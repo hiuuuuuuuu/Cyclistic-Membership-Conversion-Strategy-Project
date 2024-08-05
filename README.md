@@ -1,4 +1,4 @@
-# Cyclistic-Bike-Share-Google-Data-Analytics-Capstone-Project
+# CYCLISTIC MEMBERSHIP CONVERSION STRATEGY Project
 Case study: How does a bike-share navigate speedy success?
 ![image](https://github.com/user-attachments/assets/01972782-4fdd-4815-998e-487fcc5a845b)
 
