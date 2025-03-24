@@ -17,7 +17,8 @@ Case study: How does a bike-share navigate speedy success?
   ### Visualization:
   
   - Tableau: [Cyclistic Dashboard](https://public.tableau.com/views/cyclistic_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-    
+    ![image](https://github.com/user-attachments/assets/d0be4e8d-2a6c-46e7-b604-653a169042cf)
+
 # Introduce:
 Nghiên cứu điển hình này trình bày một dự án phân tích dữ liệu được thực hiện như một phần của khóa học Chứng chỉ Chuyên nghiệp về Phân tích Dữ liệu của Google, Dự án Capstone, tập trung vào Cyclistic, một công ty cho thuê xe đạp
 
